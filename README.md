@@ -1,7 +1,10 @@
 ## Hi there 👋
 
+- 📫 How to reach me: 
+
+![Static Badge](https://img.shields.io/badge/LinkedIn?logo=linkedin&logoColor=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fclaire-sophie-devignes%2F)
+
 <!--
-**csdevignes/csdevignes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
