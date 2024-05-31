@@ -2,7 +2,9 @@
 
 - 📫 How to reach me: 
 
-![Static Badge](https://img.shields.io/badge/LinkedIn?logo=linkedin&logoColor=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fclaire-sophie-devignes%2F)
+![<linkedin>](https://img.shields.io/badge/Profile-white?logo=linkedin&logoColor=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fclaire-sophie-devignes%2F)
+
+
 
 <!--
 
