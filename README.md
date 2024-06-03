@@ -1,21 +1,30 @@
 ## Hi there 👋
 
-- 📫 How to reach me: 
+### 🔭 I’m currently working on ...
 
-![<linkedin>](https://img.shields.io/badge/Profile-white?logo=linkedin&logoColor=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fclaire-sophie-devignes%2F)
+* [trec-coding](https://github.com/csdevignes/trec-coding) - Classification of symbols using deep learning methods
 
+### 🌱 I’m currently learning ...
 
+* Deep learning : tutorials followed in [deeplearning-training](https://github.com/csdevignes/deeplearning-training)
+  * from Machine-Learnia [📌](https://github.com/MachineLearnia)
+  * from CNRS Fidle course [📌](https://fidle.cnrs.fr/w3/)
+
+Thanks to them for their amazing educational content 🙌
+
+### 📫 How to reach me: 
+
+![<linkedin>](https://img.shields.io/badge/Profile-white?logo=linkedin&logoColor=%230A66C2&link=[https%3A%2F%2Fwww.linkedin.com%2Fin%2Fclaire-sophie-devignes%2F])
+
+Languages 💬 English, French
 
 <!--
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
