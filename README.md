@@ -2,6 +2,7 @@
 
 ### 🔭 I’m currently working on ...
 
+* [find-groups](https://github.com/csdevignes/find-groups) - Visualisation and categorisation of poll answerers
 * [trec-coding](https://github.com/csdevignes/trec-coding) - Classification of symbols using deep learning methods
 
 ### 🌱 I’m currently learning ...
