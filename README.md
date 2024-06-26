@@ -2,7 +2,12 @@
 
 ### 🔭 I’m currently working on ...
 
+* [kegg-dataextract](https://github.com/csdevignes/kegg-dataextract) - Recovering genes and metabolite names
+from KEGG database
 * [find-groups](https://github.com/csdevignes/find-groups) - Visualisation and categorisation of poll answerers
+
+### 📁 Recently finished projects
+
 * [trec-coding](https://github.com/csdevignes/trec-coding) - Classification of symbols using deep learning methods
 
 ### 🌱 I’m currently learning ...
