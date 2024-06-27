@@ -2,6 +2,8 @@
 
 ### 🔭 I’m currently working on ...
 
+* [metabo-assistant](https://github.com/csdevignes/metabo-assistant) - Fine-tuning of mistral model for analyzing cell 
+metabolic pathways
 * [kegg-dataextract](https://github.com/csdevignes/kegg-dataextract) - Recovering genes and metabolite names
 from KEGG database
 * [find-groups](https://github.com/csdevignes/find-groups) - Visualisation and categorisation of poll answerers
